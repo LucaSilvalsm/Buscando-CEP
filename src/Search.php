@@ -1,6 +1,6 @@
 <?php
 
-namespace Wead\BuscarCep;
+namespace Luckas\BuscarCep;
 
 class Search {
     private $url = "https://viacep.com.br/ws/";

@@ -8,7 +8,7 @@
             "Search": "src/"
         },
         "psr-4": {
-            "Wead\\BuscarCep\\": "src/"
+            "Luckas\\BuscarCep\\": "src/"
         }
     },
     "authors": [
