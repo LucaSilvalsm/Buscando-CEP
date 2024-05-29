@@ -10,4 +10,4 @@ $resultado = $buscar->getAddressFromZipcode('25010009'); // Use a variável corr
 
 print_r($resultado);
 
-?>
+
